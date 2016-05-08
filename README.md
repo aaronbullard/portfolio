@@ -1,7 +1,22 @@
-# Code Samples
-Quick links to highlighted code samples.
+# Aaron Bullard
 
-## PHP
+## Skills
+- Experienced Manager | Personable Leader | Proactive Problem Solver | Innovative Thinker
+- Full Stack Developer using Test Driven Development techniques and Object Oriented / Domain Driven Design principles
+- Project Management Professional (PMP) Certified through Project Management Institute
+
+## Technologies
+- Java, PHP, Hack (HHVM), Node.js, SQL, MySQL, PostgreSQL, NoSQL, ElasticSearch
+- HTML/CSS3/JavaScript, AngularJS, Vue.js, jQuery, jQuery Mobile, D3.js, Ionic, Phonegap
+- Laravel, Express, Apigee, JUnit, PHPUnit, Jasmine
+- Git, Composer, Bower, npm, Vagrant, PuPHPet, Atlassian
+- Google Maps, Google Charts, Twilio, Stripe, Fitbit API
+
+
+## Code Samples
+A few highlighted code samples:
+
+### PHP
 - [aaronbullard/network-for-good](https://github.com/aaronbullard/network-for-good)
   - API Gateway for interaction with[ Network For Good's] (http://www.networkforgood.com) SOAP API
   - Developed as a service for use in my startup: Charity Champs | Don't Gamble, Give!
@@ -12,4 +27,16 @@ Quick links to highlighted code samples.
 - [aaronbullard/cassandra-cache](https://github.com/aaronbullard/cassandra-cache)
   - Cache driver for Laravel using Cassandra
 
-## Node
+### NodeJS
+
+- [aaronbullard/node-dicontainer](https://github.com/aaronbullard/node-dicontainer)
+  - A Dependency Injection container for Node.
+
+- [aaronbullard/node-eventbus](https://github.com/aaronbullard/node-eventbus)
+  - An Event Bus with an extendable Subscriber class
+
+- [aaronbullard/node-model-factory](https://github.com/aaronbullard/node-model-factory)
+  - A [Laravel](https://laravel.com)-like model factory using faker.js
+
+- [aaronbullard/node-di-bootstrap](https://github.com/aaronbullard/node-di-bootstrap)
+    - A light framework to register/bootstrap modules into an IoC Container.  Loosely modeled after [Laravel](https://laravel.com).
