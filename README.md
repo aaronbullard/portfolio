@@ -17,6 +17,8 @@
 A few highlighted code samples:
 
 ### PHP
+- [aaronbullard/abac](https://github.com/aaronbullard/abac)
+  - Attribute Based Access Control proof of concept
 - [aaronbullard/network-for-good](https://github.com/aaronbullard/network-for-good)
   - API Gateway for interaction with[ Network For Good's] (http://www.networkforgood.com) SOAP API
   - Developed as a service for use in my startup: Charity Champs | Don't Gamble, Give!
