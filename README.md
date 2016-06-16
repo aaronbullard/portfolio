@@ -30,15 +30,13 @@ A few highlighted code samples:
   - Cache driver for Laravel using Cassandra
 
 ### NodeJS
-
+- [540co/epa-rfi-backend](https://github.com/540co/epa-rfi-backend)
+  - The backend solution for an EPA proof of concept challenge.
 - [aaronbullard/node-dicontainer](https://github.com/aaronbullard/node-dicontainer)
   - A Dependency Injection container for Node.
-
 - [aaronbullard/node-eventbus](https://github.com/aaronbullard/node-eventbus)
   - An Event Bus with an extendable Subscriber class
-
 - [aaronbullard/node-model-factory](https://github.com/aaronbullard/node-model-factory)
   - A [Laravel](https://laravel.com)-like model factory using faker.js
-
 - [aaronbullard/node-di-bootstrap](https://github.com/aaronbullard/node-di-bootstrap)
-    - A light framework to register/bootstrap modules into an IoC Container.  Loosely modeled after [Laravel](https://laravel.com).
+  - A light framework to register/bootstrap modules into an IoC Container.  Loosely modeled after [Laravel](https://laravel.com).
