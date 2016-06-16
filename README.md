@@ -31,7 +31,7 @@ A few highlighted code samples:
 
 ### NodeJS
 - [540co/epa-rfi-backend](https://github.com/540co/epa-rfi-backend)
-  - The backend solution for an EPA proof of concept challenge.
+  - [Airhound](https://airhound.540.co) The backend solution for an EPA proof of concept challenge.
 - [aaronbullard/node-dicontainer](https://github.com/aaronbullard/node-dicontainer)
   - A Dependency Injection container for Node.
 - [aaronbullard/node-eventbus](https://github.com/aaronbullard/node-eventbus)
