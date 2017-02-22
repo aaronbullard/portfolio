@@ -6,12 +6,17 @@
 - Project Management Professional (PMP) Certified through Project Management Institute
 
 ## Technologies
-- Java, PHP, Hack (HHVM), Node.js, SQL, MySQL, PostgreSQL, NoSQL, ElasticSearch
-- HTML/CSS3/JavaScript, AngularJS, Vue.js, jQuery, jQuery Mobile, D3.js, Ionic, Phonegap
-- Laravel, Express, Apigee, JUnit, PHPUnit, Jasmine
+- PHP, Ruby (Rails), Node.js, MySQL, PostgreSQL, ElasticSearch
+- HTML/CSS3/JavaScript, AngularJS, Vue.js, jQuery, jQuery Mobile
+- Laravel, Express, Rails, Apigee, PHPUnit, Jasmine
 - Git, Composer, Bower, npm, Vagrant, PuPHPet, Atlassian
 - Google Maps, Google Charts, Twilio, Stripe, Fitbit API
 
+## Interests
+- Sailing
+- Machine Learning, Artificial Intelligence (Neural Networks)
+- Domain Driven Design
+- Functional Programming
 
 ## Code Samples
 A few highlighted code samples:
