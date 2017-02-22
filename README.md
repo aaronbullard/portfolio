@@ -1,5 +1,9 @@
 # Aaron Bullard
 
+## Education
+- United States Naval Academy (Quantitative Economics)
+- The George Washington University (MBA)
+
 ## Skills
 - Experienced Manager | Personable Leader | Proactive Problem Solver | Innovative Thinker
 - Full Stack Developer using Test Driven Development techniques and Object Oriented / Domain Driven Design principles
