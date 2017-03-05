@@ -1,3 +1,5 @@
+
+![](https://avatars2.githubusercontent.com/u/4197300?v=3&u=869bf3d92fd6083413b8f28da7739e811b49425d&s=200)
 # Aaron Bullard
 
 ## Education
@@ -13,12 +15,12 @@
 - PHP, Ruby (Rails), Node.js, MySQL, PostgreSQL, ElasticSearch
 - HTML/CSS3/JavaScript, AngularJS, Vue.js, jQuery, jQuery Mobile
 - Laravel, Express, Rails, Apigee, PHPUnit, Jasmine
-- Git, Composer, Bower, npm, Vagrant, PuPHPet, Atlassian
-- Google Maps, Google Charts, Twilio, Stripe, Fitbit API
+- Git, Composer, Bower, npm, Vagrant, Atlassian
 
 ## Interests
 - Sailing
 - Machine Learning, Artificial Intelligence (Neural Networks)
+- Blockchain Technology
 - Domain Driven Design
 - Functional Programming
 
