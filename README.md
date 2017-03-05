@@ -1,6 +1,7 @@
 
 ![](https://avatars2.githubusercontent.com/u/4197300?v=3&u=869bf3d92fd6083413b8f28da7739e811b49425d&s=200)
-# Aaron Bullard [![Linkedin](images/linkedin-512.png){:height="36px" width="36px"}](https://www.linkedin.com/in/aaronbullard)
+# Aaron Bullard
+<!-- [![Linkedin](images/linkedin-512.png)](https://www.linkedin.com/in/aaronbullard) -->
 
 ## Education
 - United States Naval Academy (Quantitative Economics)
