@@ -1,6 +1,6 @@
 
 ![](https://avatars2.githubusercontent.com/u/4197300?v=3&u=869bf3d92fd6083413b8f28da7739e811b49425d&s=200)
-# Aaron Bullard
+# Aaron Bullard [![Linkedin](images/linkedin-512.png){:height="36px" width="36px"}](https://www.linkedin.com/in/aaronbullard)
 
 ## Education
 - United States Naval Academy (Quantitative Economics)
@@ -37,8 +37,6 @@ A few highlighted code samples:
   - Developed as a service for use in my startup: Charity Champs | Don't Gamble, Give!
 - [aaronbullard/collections](https://github.com/aaronbullard/collections)
   - Collection class that enforces collection type on items
-#- [aaronbullard/cassandra-cache](https://github.com/aaronbullard/cassandra-cache)
-#  - Cache driver for Laravel using Cassandra
 
 ### Rails
 - [aaronbullard/rails-filters](https://github.com/aaronbullard/rails-filters)
