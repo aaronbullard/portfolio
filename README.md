@@ -40,6 +40,10 @@ A few highlighted code samples:
 #- [aaronbullard/cassandra-cache](https://github.com/aaronbullard/cassandra-cache)
 #  - Cache driver for Laravel using Cassandra
 
+### Rails
+- [aaronbullard/rails-filters](https://github.com/aaronbullard/rails-filters)
+  - A helper class (gem) to translate a string of filters into usable sql to modify active record queries.
+
 ### NodeJS
 - [540co/epa-rfi-backend](https://github.com/540co/epa-rfi-backend)
   - [Airhound](https://airhound.540.co) The backend solution for an EPA proof of concept challenge.
