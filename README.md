@@ -37,8 +37,8 @@ A few highlighted code samples:
   - Developed as a service for use in my startup: Charity Champs | Don't Gamble, Give!
 - [aaronbullard/collections](https://github.com/aaronbullard/collections)
   - Collection class that enforces collection type on items
-- [aaronbullard/cassandra-cache](https://github.com/aaronbullard/cassandra-cache)
-  - Cache driver for Laravel using Cassandra
+#- [aaronbullard/cassandra-cache](https://github.com/aaronbullard/cassandra-cache)
+#  - Cache driver for Laravel using Cassandra
 
 ### NodeJS
 - [540co/epa-rfi-backend](https://github.com/540co/epa-rfi-backend)
