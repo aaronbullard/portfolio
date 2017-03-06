@@ -60,7 +60,7 @@ A few highlighted code samples:
 - [aaronbullard/node-di-bootstrap](https://github.com/aaronbullard/node-di-bootstrap)
   - A light framework to register/bootstrap modules into an IoC Container.  Loosely modeled after [Laravel](https://laravel.com).
 
-### Experience
+## Experience
 
 [**540**](https://540.co) | *Senior Software Architect* | *Arlington, Virginia* |	2015 - Present
 + *Technology consulting geeks who help government and business clients innovate like start-ups*
