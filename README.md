@@ -1,4 +1,6 @@
 
+(Currently looking for **freelance** or **full-time** *remote* positions)
+
 ![](https://avatars2.githubusercontent.com/u/4197300?v=3&u=869bf3d92fd6083413b8f28da7739e811b49425d&s=200)
 
 [![Linkedin](images/Logo-2C-14px.png)](https://www.linkedin.com/in/aaronbullard)
@@ -62,7 +64,7 @@ A few highlighted code samples:
 
 ## Experience
 
-[**540**](https://540.co) | *Senior Software Architect* | *Arlington, Virginia* |	2015 - Present
+[**540**](https://540.co) | *Senior Software Architect* | *Arlington, Virginia* |	2015 - 2017
 + *Technology consulting geeks who help government and business clients innovate like start-ups*
   - Systems Engineer specializing in software architecture and API design
   - Subject Matter Expert on development best practices such as API First Strategy, Agile Scrum Methodologies, Test Driven Development, and Domain Driven Design
