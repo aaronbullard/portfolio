@@ -1,5 +1,5 @@
 
-(Currently looking for **freelance** or **full-time** *remote* positions)
+(Currently looking for **freelance** or **full-time** positions)
 
 ![](https://avatars2.githubusercontent.com/u/4197300?v=3&u=869bf3d92fd6083413b8f28da7739e811b49425d&s=200)
 
