@@ -1,6 +1,3 @@
-
-(Currently looking for **freelance** or **full-time** positions)
-
 ![](https://avatars2.githubusercontent.com/u/4197300?v=3&u=869bf3d92fd6083413b8f28da7739e811b49425d&s=200)
 
 [![Linkedin](images/Logo-2C-14px.png)](https://www.linkedin.com/in/aaronbullard)
@@ -63,6 +60,8 @@ A few highlighted code samples:
   - A light framework to register/bootstrap modules into an IoC Container.  Loosely modeled after [Laravel](https://laravel.com).
 
 ## Experience
+
+[**2Book**](https://massagebook.com) | *Vice President of Engineering* | *Charleston, South Carolina* |	2017 - Present
 
 [**540**](https://540.co) | *Senior Software Architect* | *Arlington, Virginia* |	2015 - 2017
 + *Technology consulting geeks who help government and business clients innovate like start-ups*
