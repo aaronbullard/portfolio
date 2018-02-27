@@ -62,7 +62,7 @@ A few highlighted code samples:
 
 ## Experience
 
-[**2Book**](https://massagebook.com) | *Vice President of Engineering* | *Charleston, South Carolina* |	2015 - 2017
+[**2Book**](https://massagebook.com) | *Vice President of Engineering* | *Charleston, South Carolina* |	2017 - Present
 
 [**540**](https://540.co) | *Senior Software Architect* | *Arlington, Virginia* |	2015 - 2017
 + *Technology consulting geeks who help government and business clients innovate like start-ups*
