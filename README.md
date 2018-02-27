@@ -62,7 +62,9 @@ A few highlighted code samples:
 
 ## Experience
 
-[**540**](https://540.co) | *Senior Software Architect* | *Arlington, Virginia* |	2015 - Present
+[**2Book**](https://massagebook.com) | *Vice President of Engineering* | *Charleston, South Carolina* |	2015 - 2017
+
+[**540**](https://540.co) | *Senior Software Architect* | *Arlington, Virginia* |	2015 - 2017
 + *Technology consulting geeks who help government and business clients innovate like start-ups*
   - Systems Engineer specializing in software architecture and API design
   - Subject Matter Expert on development best practices such as API First Strategy, Agile Scrum Methodologies, Test Driven Development, and Domain Driven Design
