@@ -1,4 +1,3 @@
-
 ![](https://avatars2.githubusercontent.com/u/4197300?v=3&u=869bf3d92fd6083413b8f28da7739e811b49425d&s=200)
 
 [![Linkedin](images/Logo-2C-14px.png)](https://www.linkedin.com/in/aaronbullard)
@@ -73,7 +72,7 @@ A few highlighted code samples:
   - Lead backend developer on a single page application using a Ruby on Rails API and an AngularJS frontend.
   - Maintained a backend code coverage of 99% using RSpec.
 
-**Charity Champs** | *Co-founder & Developer* | *Arlington, Virginia* | 2013 - Present
+**Charity Champs** | *Co-founder & Developer* | *Arlington, Virginia* | 2013 - 2017
 + *An innovative approach to charity raising through competitive events and gamification*
   - Created, designed, and developed the application’s functional and technical workflow
   - Developed the backend architecture using the Laravel framework and MySQL
