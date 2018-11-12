@@ -17,9 +17,9 @@ I’m a full stack developer who has a passion for design and architecture.  I 
 ## Technologies
 - PHP, Ruby (Rails), Node.js, MySQL, PostgreSQL, ElasticSearch
 - HTML/CSS3/JavaScript, AngularJS, Vue.js, jQuery, jQuery Mobile
-- CI/CD, REST, Microservices, DDD, DCI, Functional Programming
-- Laravel, Express, Rails, Apigee, PHPUnit, Jasmine
-- Swagger, JSON API, JSON Schema, JSON Patch
+- CI/CD, REST, Microservices, DDD, Functional Programming
+- Laravel, Symfony, Express, Rails, PHPUnit
+- AWS, Jira, Docker, Swagger, JSON API, JSON Schema, JSON Patch
 <!-- - Git, Composer, Bower, npm, Docker, Vagrant, Travis, Code Climate, Atlassian -->
 
 ## Interests
@@ -33,6 +33,10 @@ I’m a full stack developer who has a passion for design and architecture.  I 
 A few highlighted code samples:
 
 ### PHP
+- [aaronbullard/php-schema](https://github.com/aaronbullard/php-schema)
+  - Self validating PHP objects from JSON Schema
+- [aaronbullard/eads](https://github.com/aaronbullard/eads)
+  - PHP Utility for EADS APIs
 - [aaronbullard/abac](https://github.com/aaronbullard/abac)
   - Attribute Based Access Control proof of concept
 - [aaronbullard/laravel-schemarequest](https://github.com/aaronbullard/laravel-schemarequest)
