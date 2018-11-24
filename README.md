@@ -33,6 +33,10 @@ I’m a full stack developer who has a passion for design and architecture.  I 
 A few highlighted code samples:
 
 ### PHP
+- [aaronbullard/factory-biscuit](https://github.com/aaronbullard/factory-biscuit)
+  - Quickly create PHP class instances for testing using Faker and Firehose Hydrator
+- [aaronbullard/firehose](https://github.com/aaronbullard/firehose)
+  - PHP Reflection Class helper to Instantiate, Mutate, and Extract data directly within a class
 - [aaronbullard/php-schema](https://github.com/aaronbullard/php-schema)
   - Self validating PHP objects from JSON Schema
 - [aaronbullard/eads](https://github.com/aaronbullard/eads)
@@ -41,11 +45,6 @@ A few highlighted code samples:
   - Attribute Based Access Control proof of concept
 - [aaronbullard/laravel-schemarequest](https://github.com/aaronbullard/laravel-schemarequest)
   - Laravel Form Request validator which uses JSON Schema for configuration versus Laravel's validation array attributes
-- [aaronbullard/network-for-good](https://github.com/aaronbullard/network-for-good)
-  - API Gateway for interaction with[ Network For Good's] (http://www.networkforgood.com) SOAP API
-  - Developed as a service for use in my startup: Charity Champs | Don't Gamble, Give!
-- [aaronbullard/collections](https://github.com/aaronbullard/collections)
-  - Collection class that enforces collection type on items
 
 ### Rails
 - [aaronbullard/rails-filters](https://github.com/aaronbullard/rails-filters)
