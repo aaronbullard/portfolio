@@ -51,6 +51,8 @@ A few highlighted code samples:
   - A helper class (gem) to translate a string of filters into usable sql to modify active record queries.
 
 ### NodeJS
+- [aaronbullard/jsonapi-flatten](https://github.com/aaronbullard/jsonapi-flatten)
+  - Converts a JSON API response into a navigatable json object.
 - [540co/epa-rfi-backend](https://github.com/540co/epa-rfi-backend)
   - [Airhound](https://airhound.540.co) The backend solution for an EPA proof of concept challenge.
 - [aaronbullard/node-dicontainer](https://github.com/aaronbullard/node-dicontainer)
