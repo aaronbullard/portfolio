@@ -30,9 +30,11 @@ I’m a full stack developer who has a passion for design and architecture.  I 
 - Functional Programming
 
 ## Code Samples
-A few highlighted code samples:
+A few highlighted code samples from my open source packages:
 
 ### PHP
+- [aaronbullard/dogpile](https://github.com/aaronbullard/dogpile)
+  - JSON:API helper library to cleanly import included relationships
 - [aaronbullard/factory-biscuit](https://github.com/aaronbullard/factory-biscuit)
   - Quickly create PHP class instances for testing using Faker and Firehose Hydrator
 - [aaronbullard/firehose](https://github.com/aaronbullard/firehose)
