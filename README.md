@@ -3,7 +3,7 @@
 [![Linkedin](images/Logo-2C-14px.png)](https://www.linkedin.com/in/aaronbullard)
 
 # Aaron Bullard
-I’m a full stack developer who has a passion for design and architecture.  I enjoy learning and trying new methodologies like Domain Driven Design (DDD) or maybe Data Context Interaction (DCI).  Lately I’ve been very interested in learning more about the foundational principles of functional programming.
+I'm a full stack developer and a cloud architecture consultant.  I teach development teams how to build clean software.  I mentor developers in the application of an API First, Domain Driven and Test Driven Design Strategy.  
 
 ## Education
 - United States Naval Academy (Quantitative Economics)
@@ -15,19 +15,19 @@ I’m a full stack developer who has a passion for design and architecture.  I 
 - Project Management Professional (PMP) Certified through Project Management Institute
 
 ## Technologies
-- PHP, Ruby (Rails), Node.js, MySQL, PostgreSQL, ElasticSearch
-- HTML/CSS3/JavaScript, AngularJS, Vue.js, jQuery, jQuery Mobile
-- CI/CD, REST, Microservices, DDD, Functional Programming
-- Laravel, Symfony, Express, Rails, PHPUnit
-- AWS, Jira, Docker, Swagger, JSON API, JSON Schema, JSON Patch
+- PHP, Solidity, Node.js, Ruby, SQL, NoSQL, Elasticsearch
+- HTML/CSS/JavaScript, Vue, React, AngularJS, Bootstrap
+- Domain Driven Design, Functional Programming, Cryptography Schemes, Microservices, API First Strategy
+- AWS, Docker, Ethereum, Laravel, Symfony, Rails, Express
 <!-- - Git, Composer, Bower, npm, Docker, Vagrant, Travis, Code Climate, Atlassian -->
 
 ## Interests
-- Sailing
-- Machine Learning, Artificial Intelligence (Neural Networks)
-- Blockchain Technology
-- Domain Driven Design
-- Functional Programming
+- Cryptography | Zero Knowledge Proofs | Blockchain Technology
+- Machine Learning, Artificial Intelligence (Neural Networks) 
+- Domain Driven Design | Functional Programming
+- Offshore Sailing and Jeep Overlanding
+- Traveling to Croatia to visit my wife’s family
+- Riding my bike with my Vizsla
 
 ## Code Samples
 A few highlighted code samples from my open source packages:
