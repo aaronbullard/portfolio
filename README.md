@@ -10,16 +10,15 @@ I'm a full stack developer and a cloud architecture consultant.  I teach develop
 - The George Washington University (MBA)
 
 ## Skills
-- Experienced Manager | Personable Leader | Proactive Problem Solver | Innovative Thinker
-- Full Stack Developer using Test Driven Development techniques and Object Oriented / Domain Driven Design principles
-- Project Management Professional (PMP) Certified through Project Management Institute
+- Full Stack Developer | Experienced Manager | Personable Leader | Innovative Thinker
+- Open Source Contributor | Test Driven Development techniques and Object Oriented Design principles
+- Project Management Professional (PMP) Certified
 
 ## Technologies
 - PHP, Solidity, Node.js, Ruby, SQL, NoSQL, Elasticsearch
 - HTML/CSS/JavaScript, Vue, React, AngularJS, Bootstrap
 - Domain Driven Design, Functional Programming, Cryptography Schemes, Microservices, API First Strategy
 - AWS, Docker, Ethereum, Laravel, Symfony, Rails, Express
-<!-- - Git, Composer, Bower, npm, Docker, Vagrant, Travis, Code Climate, Atlassian -->
 
 ## Interests
 - Cryptography | Zero Knowledge Proofs | Blockchain Technology
@@ -71,6 +70,21 @@ A few highlighted code samples from my open source packages:
 ## Experience
 
 [**2Book**](https://massagebook.com) | *Vice President of Engineering* | *Charleston, South Carolina* |	2017 - Present
++ *A SaaS platform providing scheduling, online booking, and contact management*
+  - Head of all technology, in charge of all software development, architecture, and infrastructure
+  - Manage and mentor the professional growth of the software development team
+  - Manage the daily operations of a production website with over 6,000 paying subscribers, $100 million in
+annual credit card transactions, and an average throughput of 7,000 requests per minute
+  - Provide DevOps expertise for an AWS infrastructure with 26 EC2 instances across 4 environments and 3 RDS databases
+
+**Lockbox** | *Founder/Developer* | *Charleston, South Carolina* |	2017 - Present
++ *A virtual safety deposit box that protects information ownership and transfer using layered symmetric and asymmetric cryptography schemes - launching in 2019*
+  - Personal project developed using Laravel Spark, Vue, PostgreSQL and AES-256, RSA cryptography
+  - Architected and developed the cryptographic scheme where data is symmetrically encrypted and where by
+the key is shared and stored between users via their public key; each user’s private key is also symmetrically
+encrypted using a passphrase only they know
+  - Lockbox allows users to designate a delegate who can in an emergency access personal information after a
+predetermined countdown; and during which the owner has the opportunity to prevent access
 
 [**540**](https://540.co) | *Senior Software Architect* | *Arlington, Virginia* |	2015 - 2017
 + *Technology consulting geeks who help government and business clients innovate like start-ups*
