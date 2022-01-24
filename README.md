@@ -73,9 +73,9 @@ A few highlighted code samples from my open source packages:
 + *A SaaS platform providing scheduling, online booking, and contact management*
   - Head of all technology, in charge of all software development, architecture, and infrastructure
   - Manage and mentor the professional growth of the software development team
-  - Manage the daily operations of a production website with over 6,000 paying subscribers, $100 million in
-annual credit card transactions, and an average throughput of 7,000 requests per minute
-  - Provide DevOps expertise for an AWS infrastructure with 26 EC2 instances across 4 environments and 3 RDS databases
+  - Manage the daily operations of a production website with over 10,000 paying subscribers, $120 million in
+annual credit card transactions, and an average throughput of 12,000 requests per minute
+  - Provide DevOps expertise for an AWS infrastructure with 32 EC2 instances across 4 environments and 3 RDS databases
 
 **Lockbox** | *Founder/Developer* | *Charleston, South Carolina* |	2017 - Present
 + *A virtual safety deposit box that protects information ownership and transfer using layered symmetric and asymmetric cryptography schemes - launching in 2019*
