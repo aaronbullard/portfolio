@@ -78,7 +78,7 @@ annual credit card transactions, and an average throughput of 12,000 requests pe
   - Provide DevOps expertise for an AWS infrastructure with 32 EC2 instances across 4 environments and 3 RDS databases
 
 **Lockbox** | *Founder/Developer* | *Charleston, South Carolina* |	2017 - Present
-+ *A virtual safety deposit box that protects information ownership and transfer using layered symmetric and asymmetric cryptography schemes - launching in 2019*
++ *A virtual safety deposit box that protects information ownership and transfer using layered symmetric and asymmetric cryptography schemes - launching in 2022*
   - Personal project developed using Laravel Spark, Vue, PostgreSQL and AES-256, RSA cryptography
   - Architected and developed the cryptographic scheme where data is symmetrically encrypted and where by
 the key is shared and stored between users via their public key; each user’s private key is also symmetrically
