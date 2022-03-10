@@ -15,10 +15,10 @@ I'm a full stack developer and a cloud architecture consultant.  I teach develop
 - Project Management Professional (PMP) Certified
 
 ## Technologies
-- PHP, Solidity, Node.js, Ruby, SQL, NoSQL, Elasticsearch
-- HTML/CSS/JavaScript, Vue, React, AngularJS, Bootstrap
+- PHP, Solidity, Node.js, Ruby, SQL, NoSQL, GraphQL, Elasticsearch
+- HTML/CSS/JavaScript, Vue, React, AngularJS, Bootstrap, Material Design
 - Domain Driven Design, Functional Programming, Cryptography Schemes, Microservices, API First Strategy
-- AWS, Docker, Ethereum, Laravel, Symfony, Rails, Express
+- AWS, Docker, Ethereum, Laravel, Symfony, Rails, Express, Nuxt.js
 
 ## Interests
 - Cryptography | Zero Knowledge Proofs | Blockchain Technology
@@ -73,7 +73,7 @@ A few highlighted code samples from my open source packages:
 + *A SaaS platform providing scheduling, online booking, and contact management*
   - Head of all technology, in charge of all software development, architecture, and infrastructure
   - Manage and mentor the professional growth of the software development team
-  - Manage the daily operations of a production website with over 10,000 paying subscribers, $120 million in
+  - Manage the daily operations of a production website with over 10,000 paying subscribers, $200 million in
 annual credit card transactions, and an average throughput of 12,000 requests per minute
   - Provide DevOps expertise for an AWS infrastructure with 32 EC2 instances across 4 environments and 3 RDS databases
 
