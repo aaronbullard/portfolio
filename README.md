@@ -77,7 +77,7 @@ A few highlighted code samples from my open source packages:
 annual credit card transactions, and an average throughput of 12,000 requests per minute
   - Provide DevOps expertise for an AWS infrastructure with 32 EC2 instances across 4 environments and 3 RDS databases
 
-**Lockbox** | *Founder/Developer* | *Charleston, South Carolina* |	2017 - Present
+**Lockbox** (personal project) | *Founder/Developer* | *Charleston, South Carolina* |	2017 - Present
 + *A virtual safety deposit box that protects information ownership and transfer using layered symmetric and asymmetric cryptography schemes - launching in 2022*
   - Personal project developed using Laravel Spark, Vue, PostgreSQL and AES-256, RSA cryptography
   - Architected and developed the cryptographic scheme where data is symmetrically encrypted and where by
@@ -95,7 +95,7 @@ predetermined countdown; and during which the owner has the opportunity to preve
   - Lead backend developer on a single page application using a Ruby on Rails API and an AngularJS frontend.
   - Maintained a backend code coverage of 99% using RSpec.
 
-**Charity Champs** | *Co-founder & Developer* | *Arlington, Virginia* | 2013 - 2017
+**Charity Champs** (personal project) | *Co-founder & Developer* | *Arlington, Virginia* | 2013 - 2017
 + *An innovative approach to charity raising through competitive events and gamification*
   - Created, designed, and developed the application’s functional and technical workflow
   - Developed the backend architecture using the Laravel framework and MySQL
