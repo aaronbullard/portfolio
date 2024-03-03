@@ -10,8 +10,9 @@ I'm a full stack developer and a cloud architecture consultant.  I teach develop
 - The George Washington University (MBA)
 
 ## Skills
-- Full Stack Developer | Experienced Manager | Personable Leader | Innovative Thinker
-- Open Source Contributor | Test Driven Development techniques and Object Oriented Design principles
+- Executive Leader | SaaS Business Expert | System Architect | Full Stack Developer
+- Proven ability to scale, lead, and drive business impact through innovative technology solutions
+- Startup to Acquisition Veteran
 - Project Management Professional (PMP) Certified
 
 ## Technologies
@@ -22,14 +23,12 @@ I'm a full stack developer and a cloud architecture consultant.  I teach develop
 
 ## Interests
 - Cryptography | Zero Knowledge Proofs | Blockchain Technology
-- Machine Learning, Artificial Intelligence (Neural Networks) 
-- Domain Driven Design | Functional Programming
+- Solidity, ChatGPT, Langchain
+- Domain-Driven Design | Functional Programming
 - Offshore Sailing and Jeep Overlanding
-- Traveling to Croatia to visit my wife’s family
-- Riding my bike with my Vizsla
 
 ## Code Samples
-A few highlighted code samples from my open source packages:
+A few highlighted code samples and open source packages:
 
 ### PHP
 - [aaronbullard/dogpile](https://github.com/aaronbullard/dogpile)
@@ -46,6 +45,8 @@ A few highlighted code samples from my open source packages:
   - PHP Utility for EADS APIs
 - [aaronbullard/abac](https://github.com/aaronbullard/abac)
   - Attribute Based Access Control proof of concept
+- [aaronbullard/bowling-game](https://github.com/aaronbullard/bowling-game)
+  - Linked List approach to scoring bowling game
 - [aaronbullard/laravel-schemarequest](https://github.com/aaronbullard/laravel-schemarequest)
   - Laravel Form Request validator which uses JSON Schema for configuration versus Laravel's validation array attributes
 
@@ -69,13 +70,24 @@ A few highlighted code samples from my open source packages:
 
 ## Experience
 
-[**2Book**](https://massagebook.com) | *Vice President of Engineering* | *Charleston, South Carolina* |	2017 - Present
-+ *A SaaS platform providing scheduling, online booking, and contact management*
-  - Head of all technology, in charge of all software development, architecture, and infrastructure
-  - Manage and mentor the professional growth of the software development team
-  - Manage the daily operations of a production website with over 10,000 paying subscribers, $200 million in
-annual credit card transactions, and an average throughput of 12,000 requests per minute
-  - Provide DevOps expertise for an AWS infrastructure with 32 EC2 instances across 4 environments and 3 RDS databases
+[**Togetherwork**](https://togetherwork.com) (formerly 2Book, acquired 2023)| *Vice President of Engineering* | *Charleston, South Carolina* |	2017 - Present
++ *Massagebook.com: A SaaS platform providing scheduling, online booking, and contact management*
+- Led all aspects of technology, including software development, architecture, and infrastructure
+- Scaled application architecture to support 4.3M monthly appointments, $18M monthly credit card transactions, and 12,000+ paying subscribers on AWS
+- Built and managed a high-performing software development team in multiple time zones
+- Provide DevOps expertise for all AWS infrastructure
+- Introduced Agile methodology and transformed the SDLC with SCRUM integration
+- Implemented QA best practices leveraging Cypress, Cucumber, and automated testing processes
+- Championed continuous learning through collaborative code reviews and modernized coding standards
+- Modernized the legacy codebase, improving its efficiency and maintainability
+- Developed a traversable entity resource graph using composable data sources for rapid API development
+- Spearheaded an API First design development approach using JSON:API and OpenAPI documentation
+- Delivered innovative features that drove business value and improved user experience:
+  - Business directory Search Site and online booking platform
+  - Credit card management integrated with Stripe and Square
+  - Customizable Membership programs with customer monthly billing
+  - Gift Card sales and funds transfer across payment providers
+  - Customizable Intake Forms and Reserve with Google integration
 
 **Lockbox** (personal project) | *Founder/Developer* | *Charleston, South Carolina* |	2017 - Present
 + *A virtual safety deposit box that protects information ownership and transfer using layered symmetric and asymmetric cryptography schemes - launching in 2022*
